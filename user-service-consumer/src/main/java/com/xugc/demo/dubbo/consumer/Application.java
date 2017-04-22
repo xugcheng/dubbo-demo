@@ -26,5 +26,7 @@ public class Application {
         String msg = userService.sayHello("dubbo");
 
         System.out.println("sayHello:" + msg);
+
+        System.in.read();
     }
 }
