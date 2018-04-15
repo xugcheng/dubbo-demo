@@ -10,9 +10,9 @@ import java.io.IOException;
 /**
  * Created by xuguocheng on 2017/4/22.
  */
-public class Application {
+public class ProviderApplication {
 
-    private static Logger logger = LoggerFactory.getLogger(Application.class);
+    private static Logger logger = LoggerFactory.getLogger(ProviderApplication.class);
 
     public static void main(String[] args) throws IOException {
 
